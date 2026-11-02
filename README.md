@@ -76,4 +76,4 @@ CNN の推定だけで仕分けを最後まで行った結果、ランダム配�
 
 ## 動画
 
-YouTube: （提出時に記載）
+YouTube: https://youtu.be/WZXg5mbChSY
