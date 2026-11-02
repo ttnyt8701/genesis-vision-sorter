@@ -1,0 +1,172 @@
+{
+ "summary": {
+  "cubes": 86,
+  "sorted": 86,
+  "perfect_episodes": 20,
+  "episodes": 20,
+  "extra_picks": 0,
+  "yellow_moved": 1
+ },
+ "episodes": [
+  {
+   "episode": 0,
+   "cubes": 5,
+   "sorted": 5,
+   "picks": 5,
+   "yellow_moved": 0,
+   "sec": 3.4
+  },
+  {
+   "episode": 1,
+   "cubes": 6,
+   "sorted": 6,
+   "picks": 6,
+   "yellow_moved": 0,
+   "sec": 3.6
+  },
+  {
+   "episode": 2,
+   "cubes": 5,
+   "sorted": 5,
+   "picks": 5,
+   "yellow_moved": 0,
+   "sec": 3.0
+  },
+  {
+   "episode": 3,
+   "cubes": 4,
+   "sorted": 4,
+   "picks": 4,
+   "yellow_moved": 0,
+   "sec": 2.6
+  },
+  {
+   "episode": 4,
+   "cubes": 4,
+   "sorted": 4,
+   "picks": 4,
+   "yellow_moved": 0,
+   "sec": 2.5
+  },
+  {
+   "episode": 5,
+   "cubes": 4,
+   "sorted": 4,
+   "picks": 4,
+   "yellow_moved": 0,
+   "sec": 2.4
+  },
+  {
+   "episode": 6,
+   "cubes": 4,
+   "sorted": 4,
+   "picks": 4,
+   "yellow_moved": 0,
+   "sec": 2.5
+  },
+  {
+   "episode": 7,
+   "cubes": 4,
+   "sorted": 4,
+   "picks": 4,
+   "yellow_moved": 0,
+   "sec": 2.4
+  },
+  {
+   "episode": 8,
+   "cubes": 3,
+   "sorted": 3,
+   "picks": 3,
+   "yellow_moved": 0,
+   "sec": 1.8
+  },
+  {
+   "episode": 9,
+   "cubes": 5,
+   "sorted": 5,
+   "picks": 5,
+   "yellow_moved": 0,
+   "sec": 3.0
+  },
+  {
+   "episode": 10,
+   "cubes": 5,
+   "sorted": 5,
+   "picks": 5,
+   "yellow_moved": 0,
+   "sec": 3.0
+  },
+  {
+   "episode": 11,
+   "cubes": 3,
+   "sorted": 3,
+   "picks": 3,
+   "yellow_moved": 0,
+   "sec": 1.7
+  },
+  {
+   "episode": 12,
+   "cubes": 4,
+   "sorted": 4,
+   "picks": 4,
+   "yellow_moved": 0,
+   "sec": 2.3
+  },
+  {
+   "episode": 13,
+   "cubes": 4,
+   "sorted": 4,
+   "picks": 4,
+   "yellow_moved": 0,
+   "sec": 2.3
+  },
+  {
+   "episode": 14,
+   "cubes": 4,
+   "sorted": 4,
+   "picks": 4,
+   "yellow_moved": 0,
+   "sec": 2.3
+  },
+  {
+   "episode": 15,
+   "cubes": 4,
+   "sorted": 4,
+   "picks": 4,
+   "yellow_moved": 1,
+   "sec": 2.4
+  },
+  {
+   "episode": 16,
+   "cubes": 5,
+   "sorted": 5,
+   "picks": 5,
+   "yellow_moved": 0,
+   "sec": 3.0
+  },
+  {
+   "episode": 17,
+   "cubes": 5,
+   "sorted": 5,
+   "picks": 5,
+   "yellow_moved": 0,
+   "sec": 3.0
+  },
+  {
+   "episode": 18,
+   "cubes": 5,
+   "sorted": 5,
+   "picks": 5,
+   "yellow_moved": 0,
+   "sec": 3.1
+  },
+  {
+   "episode": 19,
+   "cubes": 3,
+   "sorted": 3,
+   "picks": 3,
+   "yellow_moved": 0,
+   "sec": 1.8
+  }
+ ]
+}
