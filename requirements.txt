@@ -1,0 +1,6 @@
+genesis-world==1.4.5
+torch>=2.3
+numpy
+pillow
+opencv-python
+imageio
